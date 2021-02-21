@@ -1,2 +1,2 @@
-Jnes Emulador de Nintendo 8 bits.https://github.com/javiermisol/jnes
+Jnes Emulador de Nintendo 8 bits.
 Version 64 bits instalable.
